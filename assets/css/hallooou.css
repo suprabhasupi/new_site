@@ -1853,7 +1853,9 @@ body{
 button.btn.btn-default.myButton.disabled{
     color:black;
 }
-
+.caption_margin{
+    margin-top: 5%;
+}
 
 /* 14:  MEDIA QUERIES START
 /* ---------------------------------------------- */
