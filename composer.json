@@ -1,0 +1,5 @@
+{
+  "require": {
+    "vendor/mandrill/mandrill": "1.0.*"
+  }
+}
